@@ -6,9 +6,9 @@ package class2;
 public class Task3 {
 
     public static void main(String[] args) {
-        int num1 = 643;
-        int num2 = 300;
-        int difference = (num1 - num2);
+        int num1 = 300;
+        int num2 = 3000;
+        int difference = (num2 - num1);
 
         System.out.println(difference);
     }
