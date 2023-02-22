@@ -6,9 +6,9 @@ public class Task1 {
     your full name. Print the value of fullName.*/
 
     public static void main(String[] args) {
-        String firstName ="Sarah";
-        String lastName ="Vanover";
-        String fullName ="Sarah " + "Vanover";
+        String firstName = "Sarah";
+        String lastName = "Vanover";
+        String fullName = firstName  +" "+ lastName;
 
         System.out.println(fullName);
 
