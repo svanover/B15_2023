@@ -7,6 +7,8 @@ public class Task6 {
     public static void main(String[] args) {
          String firstName = "Sarah";
          String lastName = "Vanover";
-        System.out.println("Hello, " + firstName +" "+ lastName + "!");
+         String greeting =  "Hello, " + firstName +" "+ lastName + "!";
+         
+        System.out.println(greeting);
     }
 }
