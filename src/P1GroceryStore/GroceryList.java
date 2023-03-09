@@ -36,28 +36,47 @@ import java.util.Scanner;
 public class GroceryList {
     public static void main(String[] args) {
 
+
         Scanner input = new Scanner(System.in);
         int numItems;
-        String [] itemName = {"Milk, Bread, Cheese"};
-        double [] itemPrice = { 2.50,1.99, 3.25};
 
-        System.out.println("Please enter the number of items on your grocery list");
+        String[] itemName;
+        double[] itemPrice;
+        int quantity = 1;
+        double sum = 0;
+
+        System.out.println("How many items are on your grocery list?");
         numItems = input.nextInt();
 
-        itemName [] = ;
+        itemPrice = new double[numItems];
         Scanner scanner1 = new Scanner(System.in);
 
-        itemPrice = new double [numItems];
+        itemName = new String[numItems];
         Scanner scanner2 = new Scanner(System.in);
 
-       for (int i = 0; i < numItems; i++) {
-           System.out.println("Please enter the name of your item");
-            itemName[i] = scanner1.nextInt();
+        for (int i = 0; i < numItems; i++) {
+            System.out.println("Enter the name of item " + quantity + ":");
+            itemName[i] = scanner1.next();
+            System.out.println("Enter the price of " + itemName[i] + ":");
+            itemPrice[i] = scanner2.nextDouble();
+            quantity++;
+
         }
+        System.out.println();
+        System.out.println("Your grocery list:");
 
         for (int i = 0; i < numItems; i++) {
-            System.out.println("Please enter the price of your item");
-            itemPrice[i] = scanner2.nextInt();
+            System.out.println(itemName[i] + " - " + "$" + itemPrice[i]);
         }
+        System.out.println();
+        System.out.println("Total cost:");
+
+        for (int i = 0; i < numItems; i++) {
+            sum += itemPrice[i];
+        }
+        System.out.println("$" + sum);
     }
 }
+
+
+

@@ -4,79 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7ce10e-f3b2-4a6a-a382-aade1d36df57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/PrintSt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/PrintStTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/SoldierTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/IfCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class4/DayoftheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class4/MonthsoftheYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class4/SimpleBMICalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class4/SimpleCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class4/SimpleGradeCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class5/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class5/NestedIf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/LogicalOperator5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/LogicalOperators2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/LogicalOperators3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/LogicalOperators4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class6/MovieTheater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/ForLoop9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class8/WhileLoop9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/ArrayReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task10Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task11Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task12Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task13Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task14Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task15Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task1Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task1Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task2Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task2Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task3Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task3Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task4Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task4Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task5Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task5Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task6Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task6Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task7Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task7Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task8Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class9/Task9Arrays.java" afterDir="false" />
+    <list default="true" id="ab7ce10e-f3b2-4a6a-a382-aade1d36df57" name="Changes" comment="3/8/2023">
+      <change afterPath="$PROJECT_DIR$/src/P1GroceryStore/P2SimpleCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,12 +36,39 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GroceryList">
+  <component name="RunManager" selected="Application.P2SimpleCalc">
+    <configuration name="GlistTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1GroceryStore.GlistTester" />
+      <module name="B15_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1GroceryStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroceryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1GroceryStore.GroceryList" />
+      <module name="B15_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1GroceryStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2SimpleCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1GroceryStore.P2SimpleCalc" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
@@ -148,39 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task12Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.Task12Array" />
-      <module name="B15_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task15Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.Task15Array" />
-      <module name="B15_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2SimpleCalc" />
         <item itemvalue="Application.GroceryList" />
+        <item itemvalue="Application.GlistTester" />
         <item itemvalue="Application.PrintStTester" />
         <item itemvalue="Application.SoldierTester" />
-        <item itemvalue="Application.Task12Array" />
-        <item itemvalue="Application.Task15Array" />
       </list>
     </recent_temporary>
   </component>
@@ -193,17 +125,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677009872151</updated>
     </task>
+    <task id="LOCAL-00001" summary="3/8/2023">
+      <created>1678281909769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678281909769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/class8/WhileLoop2.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3/8/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/8/2023" />
   </component>
 </project>
