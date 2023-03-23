@@ -1,4 +1,4 @@
-package P1GroceryStore;
+package Project;
 
 import java.util.Scanner;
 
@@ -83,11 +83,17 @@ public class P2SimpleCalc {
 
         System.out.println();
 
+        //Use loop?!
        // Scanner scanner1 = new Scanner(System.in);
         //proceed = scanner1.next().charAt(0);
 
        // boolean Y = true;
         //boolean N = false;
+
+
+
+// do while
+
 
 /*
         if (Y) {

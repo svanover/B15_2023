@@ -4,10 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7ce10e-f3b2-4a6a-a382-aade1d36df57" name="Changes" comment="3/8/2023">
-      <change afterPath="$PROJECT_DIR$/src/P1GroceryStore/P2SimpleCalc.java" afterDir="false" />
+    <list default="true" id="ab7ce10e-f3b2-4a6a-a382-aade1d36df57" name="Changes" comment="3/9/2023">
+      <change afterPath="$PROJECT_DIR$/src/Project/P3MovieRentalSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/DTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/DTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/DTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/SMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/StrMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/strTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1GroceryStore/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1GroceryStore/P2SimpleCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/P2SimpleCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/Task1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +67,13 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P2SimpleCalc">
-    <configuration name="GlistTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1GroceryStore.GlistTester" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15.Task1" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P1GroceryStore.*" />
+          <option name="PATTERN" value="class15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroceryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1GroceryStore.GroceryList" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15.Task3" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P1GroceryStore.*" />
+          <option name="PATTERN" value="class15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2SimpleCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1GroceryStore.P2SimpleCalc" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15.Task4" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P1GroceryStore.*" />
+          <option name="PATTERN" value="class15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class11.PrintStTester" />
+    <configuration name="Task6Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class9.Task6Array" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class11.*" />
+          <option name="PATTERN" value="class9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoldierTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class11.SoldierTester" />
+    <configuration name="Task6Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class9.Task6Loops" />
       <module name="B15_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class11.*" />
+          <option name="PATTERN" value="class9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P2SimpleCalc" />
-        <item itemvalue="Application.GroceryList" />
-        <item itemvalue="Application.GlistTester" />
-        <item itemvalue="Application.PrintStTester" />
-        <item itemvalue="Application.SoldierTester" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task6Array" />
+        <item itemvalue="Application.Task6Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -132,11 +159,40 @@
       <option name="project" value="LOCAL" />
       <updated>1678281909769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3/9/2023">
+      <created>1678378704901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678378704901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3/8/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/8/2023" />
+    <MESSAGE value="3/9/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/9/2023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class12/DTask3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class12/DTask3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class12/DTask3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

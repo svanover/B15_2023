@@ -1,4 +1,4 @@
-package P1GroceryStore;
+package Project;
 
 /*      Declare a Scanner object 'input' to receive user input.
         Declare an integer variable 'numItems' to store the number of items in the grocery list.
