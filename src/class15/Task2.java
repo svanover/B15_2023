@@ -18,8 +18,8 @@ public class Task2 {
         digit.add(1.618);
         digit.add(4.669);
 
-        for (int i = 0; i < ; i++) {
+       // for (int i = 0; i < ; i++) {
             
         }
     }
-}
+

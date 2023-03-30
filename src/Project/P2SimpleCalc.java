@@ -49,64 +49,53 @@ public class P2SimpleCalc {
         int number2;
 
         char operator;
-        char proceed;
-
-        System.out.println("Please enter the first number:");
-        number1 = scanner.nextInt();
-        System.out.println("Please enter the second number:");
-        number2 = scanner.nextInt();
-        System.out.println("Please enter the operator (+, -, *, /):");
-
-        Scanner op = new Scanner(System.in);
-        operator = op.next().charAt(0);
-
-        if (operator == '+') {
-            System.out.println("The result is: " + (number1 + number2));
-
-        } else if (operator == '-') {
-            System.out.println("The result is: " + (number2 - number1));
-
-        } else if (operator == '*') {
-            System.out.println("The result is: " + (number1 * number2));
-
-        } else if (operator == '/') {
-            System.out.println("The result is: " + (number1 / number2));
-
-        } else {
-            System.out.println("Invalid operator entered. Please try again.");
-        }
-
-        System.out.println();
-        System.out.println();
-
-        System.out.println("Would you like to perform another calculation? (Y/N):");
-
-        System.out.println();
-
-        //Use loop?!
-       // Scanner scanner1 = new Scanner(System.in);
-        //proceed = scanner1.next().charAt(0);
-
-       // boolean Y = true;
-        //boolean N = false;
 
 
-
-// do while
-
-
-/*
-        if (Y) {
+        char choice;
+        do {
             System.out.println("Please enter the first number:");
             number1 = scanner.nextInt();
             System.out.println("Please enter the second number:");
             number2 = scanner.nextInt();
-            System.out.println("Please enter the operator (+, -, *, /):");'
-        } else {
+            System.out.println("Please enter the operator (+, -, *, /):");
 
-            System.out.println("Thank you for using the Simple Calculator!");
+            Scanner op = new Scanner(System.in);
+            operator = op.next().charAt(0);
+            if(!(operator=='+'||operator=='-'||operator=='/'||operator=='*')){
+                do{
+                    System.out.println("Invalid operator ");
+                    System.out.println("Please enter the operator +-/*");
+                    operator=scanner.next().charAt(0);
+                }while (!(operator=='+'||operator=='-'||operator=='/'||operator=='*'));
+            }
 
- */
-        }
+
+
+            if (operator == '+') {
+                System.out.println("The result is: " + (number1 + number2));
+
+            } else if (operator == '-') {
+                System.out.println("The result is: " + (number2 - number1));
+
+            } else if (operator == '*') {
+                System.out.println("The result is: " + (number1 * number2));
+
+            } else if (operator == '/') {
+                System.out.println("The result is: " + (number1 / number2));
+
+            }
+
+
+
+
+            System.out.println("Would you like to perform another calculation? (Y/N):");
+            choice = scanner.next().charAt(0);
+
+
+        } while (choice == 'Y' || choice == 'y');
+
+        System.out.println("Thank you for using the Simple Calculator!");
+
     }
+}
 
